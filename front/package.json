@@ -11,7 +11,7 @@
   "dependencies": {
     "axios": "^0.19.2",
     "bootstrap-vue": "^2.4.0",
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "core-js": "^3.4.4",
     "eslint-import-resolver-node": "^0.3.3",
     "vue": "^2.6.10",
